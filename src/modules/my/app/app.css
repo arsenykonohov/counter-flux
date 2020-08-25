@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #f1f5f8;
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+}
+main {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.container {
+    margin: auto;
+    text-align: center;
+}

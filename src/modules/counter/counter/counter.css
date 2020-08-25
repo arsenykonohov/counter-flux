@@ -1,0 +1,12 @@
+h1 {
+    font-weight: 800;
+    font-size: 60px;
+    color: black;
+}
+h2 {
+    margin-top: -50px;
+    font-weight: 800;
+    font-size: 60px;
+    color: black;
+    margin-bottom: 10px;
+}
